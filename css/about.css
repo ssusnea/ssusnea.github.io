@@ -6,3 +6,11 @@
     border-color: black;
     text-align: center;
 }
+
+.headshot {
+    width: 100px;
+}
+
+.page-body {
+    display: inline;
+}
