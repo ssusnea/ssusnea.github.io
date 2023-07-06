@@ -8,8 +8,9 @@
     width: 500px;
     float: center;
     size: 1fr;
-    border-width: 5px;
+    border-width: 20px;
     border-color: black;
+    text-align: center;
 }
 
 .about-button {
