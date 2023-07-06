@@ -1,23 +1,31 @@
 .top-container {
     display: grid;
-    grid-template-columns: 100px 1fr 195px;
+    grid-template-columns: 150px 1fr 195px;
     justify-content: center;
 }
 
 .container1 {
-    background-color: darkgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgray;
 }
 
 .container2 {
     text-align: center;
-    background-color: lightcoral;
+    background: lightblue;
 }
 
 .container3 {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: lightblue;
+}
+
+.welcome-text {
+    font-family: Helvetica; 
+    font-size: 20px;
+    color: rgb(133, 178, 94);
 }
 
 .name {
@@ -28,11 +36,12 @@
     width: 175px;
     height: 75px;
     border-radius: 50px;
-    background-color: rgb(133, 178, 94);
     padding-left: 5px;
     padding-right: 5px;
-    border-style: hidden;
-    font-size: 30px;
-    font-family: Helvetica;
-    color: white;
+    border-style: solid;
+    border-color: rgb(133, 178, 94);
+}
+
+.about-image {
+    width: 150px;
 }
