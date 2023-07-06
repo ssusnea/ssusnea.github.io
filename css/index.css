@@ -1,0 +1,28 @@
+.top-line {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    column-gap: 30px;
+}
+
+.name {
+    width: 500px;
+    float: center;
+    size: 1fr;
+    border-width: 5px;
+    border-color: black;
+}
+
+.about-button {
+    color: white;
+    background: rgb(132, 201, 74);
+    width: 150px;
+    height: 75px;
+    padding-left: 40 px;
+    padding-right: 40 px;
+    padding-top: 20 px;
+    padding-bottom: 20 px;
+    object-position: right;
+    font-family: Helvetica;
+    font-size: 30;
+
+}
