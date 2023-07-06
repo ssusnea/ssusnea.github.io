@@ -1,0 +1,28 @@
+
+.name {
+    width: 500px;
+    float: center;
+    size: 1fr;
+}
+
+.intro {
+    font-family: Helvetica;
+    font-size: 60;
+}
+
+.intro-para {
+    font-family: Helvetica;
+}
+
+.about-button {
+    color: white;
+    background: rgb(132, 201, 74);
+    padding-left: 40 px;
+    padding-right: 40 px;
+    padding-top: 20 px;
+    padding-bottom: 20 px;
+    object-position: right;
+    font-family: Helvetica;
+    font-size: 30;
+
+}
