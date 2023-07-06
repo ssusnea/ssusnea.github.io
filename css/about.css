@@ -1,0 +1,8 @@
+.name {
+    width: 500px;
+    float: center;
+    size: 1fr;
+    border-width: 20px;
+    border-color: black;
+    text-align: center;
+}
