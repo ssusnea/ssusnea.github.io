@@ -11,6 +11,7 @@
     display: grid;
     grid-template-columns: 150px 1fr 195px;
     justify-content: center;
+    column-gap: 30px;
 }
 
 .container1 {
@@ -63,21 +64,4 @@
 
 .page-body {
     display: inline;
-}
-
-.linked-logos {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-}
-
-.linkedin {
-    background-color: green;
-}
-
-.github {
-    background-color: blue;
-}
-
-.email {
-    background-color: orange;
 }
