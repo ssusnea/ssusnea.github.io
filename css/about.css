@@ -59,9 +59,13 @@
 }
 
 .headshot {
-    width: 150px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.page-body {
-    display: inline;
+.important-info {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
