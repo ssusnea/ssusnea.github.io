@@ -1,0 +1,15 @@
+.layout {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    row-gap: 50px;
+}
+
+.spacing {
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 30px; 
+}
+
+.mp3-text {
+    font-size: large;
+}
