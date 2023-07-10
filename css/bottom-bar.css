@@ -21,7 +21,7 @@
 
 .other-links {
     border-style: hidden;
-    background-color: hidden;
+    background-color: transparent;
     display: flex;
     align-items: center;
     justify-content: center;
