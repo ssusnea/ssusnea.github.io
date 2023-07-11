@@ -10,3 +10,11 @@
     row-gap: 30px; 
 }
 
+.blurb {
+    border-style: solid;
+    border-color: rgb(133, 178, 94);
+    border-radius: 40px;
+    padding: 10px;
+    height: 300px;
+    
+}

@@ -31,10 +31,6 @@
 }
 
 
-.name {
-    width: 500px;
-}
-
 .back-button {
     width: 175px;
     height: 75px;
@@ -46,27 +42,61 @@
     border-color: rgb(133, 178, 94);
 }
 
-.about-image {
-    width: 150px;
-}
-
 .back-image {
     width: 150px;
 }
 
 .page-body {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 350px 1fr;
 }
 
 .headshot {
     width: 300px;
+}
+
+.headshot-container {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
+.about-blurb {
+    padding: 20px;
+}
+
 .important-info {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
+    row-gap: 10px;
+}
+
+.page-layout {
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 30px;
+}
+
+.about-header {
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.resume-download {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(133, 178, 94);
+    border-radius: 40px;
+}
+
+.immediate-email {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-color: rgb(133, 178, 94);
+    border-radius: 40px;
+    border-style: solid;
 }
