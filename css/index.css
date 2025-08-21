@@ -72,11 +72,11 @@
     margin: 30px;
 } 
 
-.resume-download {
+.resume-button {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 200px;
+    width: 400px;
     height: 50px;
     background: rgb(133, 178, 94);
     border-radius: 40px;
