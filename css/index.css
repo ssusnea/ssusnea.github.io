@@ -29,6 +29,8 @@
 
 .name {
     width: 450px;
+    max-width: 100%;
+        height: auto;
 }
 
 .project-button {
@@ -85,4 +87,6 @@
 
 .headshot {
     width: 400px;
+    max-width: 100%;
+        height: auto;
 }
