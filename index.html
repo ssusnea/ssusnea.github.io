@@ -1,53 +1,55 @@
 <!DOCTYPE html>
-<html lang = "en">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/bottom-bar.css">
+    <link rel="stylesheet" href="css/index.css">
     <title>Home Page</title>
 </head>
 
-
-<body style="padding-left: 50px; padding-top: 10px; padding-right: 50px; padding-bottom: 25px; font-family: Helvetica;">
+<body style="padding-left: 40px; padding-top: 10px; padding-right: 40px; padding-bottom: 25px; font-family: Helvetica;">
     
-    <div class="top-container">
-        <div class="container1">
+    <div class="top-row">
+        <div class="left-bin">
             <img class="name" src="images/name.png" alt="my name!">
         </div>
-        <div class="container2"></div>
-        <div class="container3"> 
+        <div class="middle-bin">
+            
+        </div>
+        <div class="right-bin">
             <a href="projects.html"> 
-                <button class="project-button"><p class="project-text">projects</p></button>
+                <button class="project-button"><p class="button-text">projects</p></button>
             </a>
-
         </div>
     </div>
-    <div class="index-header"><h1>Hi There!</h1>
-        <div class = "main-container">
-            <div class="headshot-container"><img class="headshot" src="images/new_headshot.jpg" alt="silly headshot placeholder">  
-            </div>
-            <div class="short-blurb"><p>
+
+    <h1 style="color: rgb(133, 178, 94)">Hello!</h1>
+    <div class = "body">
+        <img class="headshot" src="images/headshot.JPG" alt="me!">
+        <div class="basic-info">
+            <p class="about-text">
                 My name is Sarah Susnea (she/her) and I am a recent Smith College graduate where I studied Statistical and Data Sciences (SDS). 
                 I'm based in the New York City area.
             </p>
-            <p>Currently I am continuing my work with Professor Ben Baumer as we investigate applying machine learning definitions of 
-                fairness to evaluate different proposed methods for determining sporting events' outcomes! For more of my previous experience, download or check out my resume below.</p>
-            <p> 
+            <p class="about-text">
+                Currently I am continuing my work with Professor Ben Baumer as we investigate applying machine learning definitions of 
+                fairness to evaluate different proposed methods for determining sporting events' outcomes! For more of my previous experience, download or check out my resume below.
+            </p>
+            <p class="about-text"> 
                 I enjoy answering questions like the one above using my statistics and programming knowledge and am eager to continue this kind of work
                 in my professional career. In my free time I can be found reading, solving sudoku puzzles, or pointing out all the dogs in the Hudson River Park. 
             </p>
             <a href="SusneaSarah_Resume.pdf" target="_blank"> 
-                <button class="resume-button"><p class="project-text">Download my resume</p></button>
+                <button class="resume-button"><p class="button-text">Download my resume</p></button>
             </a>
-            </div> 
         </div>
-    
-        
-        <div class="resume-frame"><iframe src="SusneaSarah_Resume.pdf" title = "My resume" height = 600 width = 850></iframe>
     </div>
 
+    <div class="resume-frame"><iframe src="SusneaSarah_Resume.pdf" title = "My resume" height = 600 width = 850></iframe>
+    </div>
 
+    <div class = "bottom-container">
         <div class="logo-links">
             <div class="linkedin">
                 <a href="https://www.linkedin.com/in/sarah-susnea/" target="_blank">
