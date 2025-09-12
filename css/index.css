@@ -5,6 +5,12 @@
 }
 
 
+.index-header {
+    color: rgb(133, 178, 94);
+    font-size: 20px;
+    display: flex;
+}
+
 
 .button-text {
     font-size: 30px;
