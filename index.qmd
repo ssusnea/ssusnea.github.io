@@ -13,26 +13,21 @@ Currently I am continuing my work with Professor Ben Baumer as we investigate ap
                 
 I enjoy answering questions like the one above using my statistics and programming knowledge and am eager to continue this kind of work in my professional career. In my free time I can be found reading, solving sudoku puzzles, or pointing out all the dogs in the Hudson River Park. 
 
-Download my resume [here](docs/SusneaSarah_Resume.pdf)
+**Download my resume [here](docs/SusneaSarah_Resume.pdf)**
 
 ## Highlight Reel
 
 ### Education
-- Smith College | Northampton, MA | Sept 2022 - May 2025
-
-BA in Statistical and Data Sciences
-
+- Smith College | Northampton, MA | Sept 2022 - May 2025  
+BA in Statistical and Data Sciences  
 Cumulative GPA 3.86/4.0
 
 ### Work Experience: 
-Memorial Sloan Kettering PCCTC Data Science Intern | New York, NY | June 2024 - Aug 2024 
+- Memorial Sloan Kettering PCCTC Data Science Intern | New York, NY | June 2024 - Aug 2024 
 
 ### Research Experience: 
-Contributor in Jones et al., 2025
-
-Co-author in Baumer, B. S., & Susnea, S. B., 2025 (in progress)
-
-
-Co-author in Cao, S., Rosenfeld, H., & Susnea, S., 2025
+- Contributor on Jones et al., 2025
+- Co-author on Cao, S., Rosenfeld, H., & Susnea, S., 2025
+- Co-author on Baumer, B. S., & Susnea, S. B., 2025 (in progress)
 
 

@@ -9,6 +9,7 @@ website:
         text: Projects
     tools: 
       - icon: envelope
+        href: mailto:sarahsusnea@gmail.com
       - icon: linkedin
         href: https://linkedin.com/in/sarah-susnea
         target: _blank
