@@ -1,0 +1,35 @@
+---
+title: "Hey!"
+image: images/headshot.JPG
+embed-resources: true
+about: 
+    template: marquee
+    image-width: 100% 
+---
+
+My name is Sarah Susnea and I am a recent Smith College graduate where I studied Statistical and Data Sciences (SDS). I'm based in the New York City area.
+                
+Currently I am continuing my work with Professor Ben Baumer as we investigate applying machine learning definitions of fairness to evaluate different proposed methods for determining sporting events' outcomes! For more of my previous experience, check out my resume. 
+                
+I enjoy answering questions like the one above using my statistics and programming knowledge and am eager to continue this kind of work in my professional career. In my free time I can be found reading, solving sudoku puzzles, or pointing out all the dogs in the Hudson River Park. 
+
+Download my resume [here](SusneaSarah_Resume.pdf)
+
+## Highlight Reel
+
+### Education
+Smith College | Northampton, MA | Sept 2022 - May 2025
+
+BA in Statistical and Data Sciences, cumulative GPA 3.86/4.0
+
+### Work Experience: 
+Memorial Sloan Kettering PCCTC Data Science Intern | New York, NY | June 2024 - Aug 2024 
+
+### Research Experience: 
+Contributor in Jones et al., 2025
+
+Co-author in 
+
+Co-author in 
+
+

@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hey!",
+    "section": "",
+    "text": "My name is Sarah Susnea and I am a recent Smith College graduate where I studied Statistical and Data Sciences (SDS). I’m based in the New York City area.\nCurrently I am continuing my work with Professor Ben Baumer as we investigate applying machine learning definitions of fairness to evaluate different proposed methods for determining sporting events’ outcomes! For more of my previous experience, download or check out my resume below.\nI enjoy answering questions like the one above using my statistics and programming knowledge and am eager to continue this kind of work in my professional career. In my free time I can be found reading, solving sudoku puzzles, or pointing out all the dogs in the Hudson River Park.\nDownload my resume here"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me!",
+    "section": "",
+    "text": "My name is Sarah Susnea (she/her) and I am a recent Smith College graduate where I studied Statistical and Data Sciences (SDS). I’m based in the New York City area.\nCurrently I am continuing my work with Professor Ben Baumer as we investigate applying machine learning definitions of fairness to evaluate different proposed methods for determining sporting events’ outcomes! For more of my previous experience, download or check out my resume below.\nI enjoy answering questions like the one above using my statistics and programming knowledge and am eager to continue this kind of work in my professional career. In my free time I can be found reading, solving sudoku puzzles, or pointing out all the dogs in the Hudson River Park."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Various things I’ve done"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Hey!",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "index.html#highlight-reel",
+    "href": "index.html#highlight-reel",
+    "title": "Hey!",
+    "section": "Highlight Reel",
+    "text": "Highlight Reel\n\nEducation\nSmith College | Northampton, MA | Sept 2022 - May 2025\nBA in Statistical and Data Sciences, cumulative GPA 3.86/4.0\n\n\nWork Experience:\nMemorial Sloan Kettering PCCTC Data Science Intern | New York, NY | June 2024 - Aug 2024\n\n\nResearch Experience:\nContributor in Jones et al., 2025\nCo-author in\nCo-author in"
+  }
+]

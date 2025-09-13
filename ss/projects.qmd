@@ -1,0 +1,7 @@
+---
+title: "Projects"
+listings: 
+    contents: projects/
+    sort: alphabetical
+---
+Various things I've done

@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  navbar:
+    left:
+      - href: projects.qmd
+        text: Projects
+    tools: 
+      - icon: envelope
+      - icon: linkedin
+        href: https://linkedin.com/in/sarah-susnea
+        target: _blank
+      - icon: github
+        href: https://github.com/ssusnea
+        target: _blank
+       
+
+      
+    logo: "images/name.png"
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    embed-resources: true
+    link-external-newwindow: true
+
+
+
