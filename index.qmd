@@ -24,10 +24,10 @@ I enjoy answering questions like the one above using my statistics and programmi
 BA in Statistical and Data Sciences  
 Cumulative GPA 3.86/4.0
 
-### Work Experience: 
+### Work Experience 
 - Memorial Sloan Kettering PCCTC Data Science Intern | New York, NY | June 2024 - Aug 2024 
 
-### Research Experience: 
+### Research Experience 
 - Contributor on Jones et al., 2025
 - Co-author on Cao, S., Rosenfeld, H., & Susnea, S., 2025
 - Co-author on Baumer, B. S., & Susnea, S. B., 2025 (in progress)
