@@ -28,8 +28,7 @@ Cumulative GPA 3.86/4.0
 - Memorial Sloan Kettering PCCTC Data Science Intern | New York, NY | June 2024 - Aug 2024 
 
 ### Research Experience 
-- Contributor on Jones et al., 2025
-- Co-author on Cao, S., Rosenfeld, H., & Susnea, S., 2025
-- Co-author on Baumer, B. S., & Susnea, S. B., 2025 (in progress)
-
+- Contributor on Jones, D. W., Simons, J. P., Markert, E., MacGibbon, C., Huang, J., Lin, N., **Susnea, S.**, Baumer, B. S., Scali, S., Stone, D. H., Schermerhorn, M., Schanzer, A. (2025). Earned Outcome Metrics Outperform Recommended Open Abdominal Aortic Aneurysm Repair Volume Guidelines in Discriminating Perioperative Mortality Among Centers. Journal of Vascular Surgery
+- Co-author on Cao, S., Rosenfeld, H., & **Susnea, S.** (2025). Educational opportunities of participatory GIS for accessibility on a college campus. Journal of Geography in Higher Education, 1–15. 
+- Co-author on Baumer, B. S., & **Susnea, S. B.** (2025). Reward Systems in Sports: Who’s the Fairest of Them All? (in progress)
 
