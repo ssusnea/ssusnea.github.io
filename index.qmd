@@ -2,7 +2,7 @@
 title: "Hey!"
 image: images/headshot.JPG
 resources: 
-    - SusneaSarah_Resume.pdf
+    - docs/SusneaSarah_Resume.pdf
 embed-resources: true
 about: 
     template: marquee
@@ -15,7 +15,7 @@ Currently I am continuing my work with Professor Ben Baumer as we investigate ap
                 
 I enjoy answering questions like the one above using my statistics and programming knowledge and am eager to continue this kind of work in my professional career. In my free time I can be found reading, solving sudoku puzzles, or pointing out all the dogs in the Hudson River Park. 
 
-Download my resume [here](docs/SusneaSarah_Resume.pdf)
+**Download my resume [here](docs/SusneaSarah_Resume.pdf)**
 
 ## Highlight Reel
 
