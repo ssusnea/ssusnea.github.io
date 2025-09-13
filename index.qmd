@@ -1,6 +1,8 @@
 ---
 title: "Hey!"
 image: images/headshot.JPG
+resources: 
+    - SusneaSarah_Resume.pdf
 embed-resources: true
 about: 
     template: marquee
